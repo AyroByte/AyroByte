@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 **Skills**:<br>- Lua<br>- C++ (in progress)<br>- Game Development<br>- Scripting<br><br>🔭 **Interests**:<br>- Programming<br>- Technology<br>- Video games<br>- TV Shows and movies
+👨🏻‍💻 **Skills**:<br>- Lua<br>- C++ (in progress)<br>- Python (basics)<br>- Game Development<br>- Scripting<br><br>🔭 **Interests**:<br>- Programming<br>- Technology<br>- Video games<br>- TV Shows and movies
 
 
 # 💻 Tech Stack:
